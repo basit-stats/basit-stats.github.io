@@ -1,1 +1,1 @@
-Sitemap: https://mbasit-hub.github.io/basit.github.io/sitemap.xml
+Sitemap: https://basit-stats.github.io/sitemap.xml
