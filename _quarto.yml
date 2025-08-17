@@ -1,0 +1,55 @@
+project:
+  type: website
+
+website:
+  title: "Md Abdul Basit"
+  navbar:
+    pinned: true
+    left:
+      - text: "Home"
+        href: index.qmd
+      # - text: "Research"
+      #   href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "Talks"
+        href: "talks.qmd"
+      - text: "CV"
+        href: cv/abasit_cv.pdf
+
+  page-footer:
+    left: |
+      © 2025 Md Abdul Basit
+    center: |
+      <a href="cv/abasit_cv.pdf" title="CV"><i class="ai ai-cv fa-lg"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://github.com/" title="GitHub"><i class="fa-brands fa-github fa-lg"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://scholar.google.com" title="Google Scholar"><i class="ai ai-google-scholar fa-lg"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://www.linkedin.com/" title="LinkedIn"><i class="fa-brands fa-linkedin fa-lg"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://orcid.org/" title="ORCID"><i class="ai ai-orcid fa-lg"></i></a>
+      &nbsp;&nbsp;
+      <a href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons BY 4.0">
+        <i class="fa-brands fa-creative-commons"></i>
+        <i class="fa-brands fa-creative-commons-by"></i>
+      </a>
+    right: |
+      Made with <a href="https://quarto.org">Quarto</a>
+
+format:
+  html:
+    theme:
+      light: flatly
+      dark: darkly
+    css: styles.css
+    toc: false
+    include-in-header:
+      - text: |
+          <!-- Academicons via CDN (for CV, Scholar, ORCID icons) -->
+          <link rel="stylesheet"
+                href="https://cdn.jsdelivr.net/gh/jpswalsh/academicons@1/css/academicons.min.css">
+          <!-- Font Awesome (ensures Creative Commons icons render) -->
+          <link rel="stylesheet"
+                href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">

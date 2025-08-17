@@ -1,0 +1,32 @@
+---
+title: "Md Abdul Basit"
+image: "assets/profile.jpg"   # 300x300 square is perfect
+execute:
+  echo: false
+  warning: false
+about:
+  template: trestles
+  image-shape: rounded              # square with rounded corners (not circular)
+  links:
+    - text: '<i class="ai ai-cv fa-lg"></i>'            # CV (Academicons)
+      href: cv/abasit_cv.pdf
+    - icon: github                                      # GitHub (Font Awesome)
+      href: https://github.com/mbasit-hub
+    - text: '<i class="ai ai-google-scholar fa-lg"></i>'# Scholar (Academicons)
+      href: https://scholar.google.com/citations?user=qlh7uakAAAAJ&hl=en
+    - icon: linkedin                                    # LinkedIn (Font Awesome)
+      href: https://www.linkedin.com/in/basitisrt/
+    - text: '<i class="ai ai-orcid fa-lg"></i>'         # ORCID (Academicons)
+      href: https://orcid.org/0000-0003-3116-895X
+format:
+  html:
+    toc: false
+---
+
+### About me
+
+Hi, welcome to my personal website!
+
+I am a second-year Ph.D. candidate in the Department of Statistics at NC State University, advised by Prof. [Shu Yang](https://statistics.sciences.ncsu.edu/people/syang24/). Before joining NC State, I received my Bachelor of Science and Master of Science degrees in Applied Statistics from the University of Dhaka, where I was fortunate to be co-supervised by Prof. [A.H.M. Mahbub Latif](https://www.du.ac.bd/faculty/faculty_details/ISR/985) and Prof. [Abdus S Wahed](https://www.urmc.rochester.edu/biostat/people/faculty/abdus-wahed-phd). In summer 2025, I worked as a research assistant with Prof. [Luo Xiao](https://statistics.sciences.ncsu.edu/people/lxiao5/) on functional data analysis.
+
+My research interests include **causal inference**, **functional data analysis**, and **survival analysis**. I am always excited to connect with fellow researchers and collaborators. Please feel free to reach out if you would like to connect!

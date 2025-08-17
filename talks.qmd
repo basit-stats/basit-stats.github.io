@@ -1,0 +1,6 @@
+# Conference Talks
+
+- **A Calibrated Sensitivity Model for Causal Effects in Observational Studies** — [ISCB44, Milan, Italy, 2023](https://iscb.international/iscb-conference-2023/) 
+
+- **Sensitivity Analysis of Causal Effects in Observational Studies** — [ISCB43, Newcastle, UK, 2023](https://iscb.international/2022/11/)  
+  

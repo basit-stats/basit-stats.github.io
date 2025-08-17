@@ -1,0 +1,16 @@
+---
+title: "Research"
+---
+
+# Research Interests
+
+- Causal Inference  
+- Design of Experiments  
+- Machine Learning  
+- Survival Analysis  
+
+# Selected Projects
+
+- **Sensitivity Analysis of Causal Effect Estimators in Observational Studies** (M.S. Thesis)  
+- **Estimating Causal Effects of Socio-economic Factors on Caesarean Section Delivery in Bangladesh**  
+- **Assessing Vulnerability to Poverty Using Downside Mean Semi-deviation Approach**  

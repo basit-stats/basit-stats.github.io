@@ -1,0 +1,14 @@
+---
+title: "Teaching & Supervision"
+---
+
+# Teaching Experience
+
+**Graduate Courses**  
+- CSE 530: Python for Data Science (University of Dhaka)  
+- MPH 521: Biostatistics (BRAC University)  
+
+**Undergraduate Courses**  
+- CSE 131: SQL for Data Science (University of Dhaka)  
+- AST 205: Introduction to Demography (University of Dhaka)  
+- AST 401: Advanced Probability and Stochastic Processes (University of Dhaka)  

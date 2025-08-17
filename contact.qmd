@@ -1,0 +1,9 @@
+---
+title: "Contact"
+---
+
+# Contact Information
+
+- **Email**: [mbasit@ncsu.edu](mailto:mbasit@ncsu.edu)  
+- **Office**: Department of Statistics, NC State University  
+- **Website**: [statistics.sciences.ncsu.edu/people/mbasit](https://statistics.sciences.ncsu.edu/people/mbasit)  

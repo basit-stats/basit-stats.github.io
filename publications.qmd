@@ -1,0 +1,12 @@
+---
+csl: apa.csl         # or another style you prefer
+---
+
+## Published Papers
+- Aziz, S., **Basit, M. A.**, Sultana, S., Homer, C. S., & Vogel, J. P. (2022). [Inequalities in women’s utilization of postnatal care services in Bangladesh from 2004 to 2017](https://www.nature.com/articles/s41598-022-06672-z). *Scientific Reports*, 12(1), 1-11.
+
+## Preprints
+
+- **Basit, M. A.**, Latif, M. A., & Wahed, A. S. (2023). [Sensitivity Analysis of Inverse Probability Weighting Estimators of Causal Effects in Observational Studies with Multivalued Treatments](http://arxiv.org/abs/2308.15986). *arXiv preprint*, arXiv:2308.15986.
+
+- **Basit, M. A.**, Latif, M. A., & Wahed, A. S. (2023). [A Risk-Ratio-Based Marginal Sensitivity Model for Causal Effects in Observational Studies](https://arxiv.org/abs/2309.15391). *arXiv preprint*, arXiv:2309.15391.
