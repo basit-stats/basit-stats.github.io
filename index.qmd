@@ -11,7 +11,7 @@ about:
     - text: '<i class="ai ai-cv fa-lg"></i>'            # CV (Academicons)
       href: cv/abasit_cv.pdf
     - icon: github                                      # GitHub (Font Awesome)
-      href: https://github.com/mbasit-hub
+      href: https://github.com/basit-stats
     - text: '<i class="ai ai-google-scholar fa-lg"></i>'# Scholar (Academicons)
       href: https://scholar.google.com/citations?user=qlh7uakAAAAJ&hl=en
     - icon: linkedin                                    # LinkedIn (Font Awesome)
